@@ -47,7 +47,16 @@ header nav button {
 .divider {
   background-color: #99ff99;
   height: 500px;
-  margin-top: -5px;
+  margin-top: -25px;
+}
+.divider h1 {
+  text-align: center;
+}
+.divider p {
+  line-height: 1.5;
+}
+.divider .p-tag-div {
+  margin: 0 50px;
 }
 .intro-img-div h1 {
   font-size: 100px;
@@ -61,6 +70,9 @@ header nav button {
 .mid-section .mid-img {
   width: 50%;
 }
-.mid-section .mid-section {
+.mid-section .mid-section2 {
   width: 50%;
+  justify-content: center;
+  margin: 0 100px;
+  line-height: 1.5;
 }

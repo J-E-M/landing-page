@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #00BBFF;
+  opacity: 0.8;
+}
+header nav {
+  display: flex;
+  justify-content: space-around;
+}
+header nav h1 {
+  font-size: 45px;
+  width: 30px;
+  opacity: 1;
+}
+header nav input {
+  align-self: flex-end;
+  margin-bottom: 45px;
+  opacity: 1;
+}
+header nav img {
+  width: 100px;
+  height: 100px;
+  margin-left: 340px;
+  margin-top: 10px;
+  opacity: 1;
+}
+header nav button {
+  align-self: flex-end;
+  margin-bottom: 45px;
+  opacity: 1;
+}
+.intro-section .intro-img {
+  margin-top: -255px;
+}

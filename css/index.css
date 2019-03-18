@@ -54,3 +54,13 @@ header nav button {
   color: #99ff99;
   position: absolute;
 }
+.mid-section {
+  display: flex;
+  justify-content: space-between;
+}
+.mid-section .mid-img {
+  width: 50%;
+}
+.mid-section .mid-section {
+  width: 50%;
+}

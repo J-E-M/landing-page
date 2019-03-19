@@ -128,3 +128,29 @@ footer a {
   text-decoration: none;
   margin: 0 10px;
 }
+.team-intro-img-div .team-intro-img {
+  margin-top: -680px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.team-intro-img-div h1 {
+  padding-top: -315px;
+  font-size: 100px;
+  color: #99ff99;
+  position: absolute;
+}
+@media (max-width: 500px) {
+  .team-intro-img-div h1 {
+    margin-top: 0%;
+  }
+}
+.team-div {
+  padding-top: 530px;
+}
+.team-div .team {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
